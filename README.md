@@ -20,6 +20,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+---------------------------------------------------------------------------------------------------------------------------------------- 
+----------
+##Setup Your own firebase
+
+This project is running on my firebase account
+
+You can create your own firebase account and change the firebaseConfig in firebase.js file
+![image](https://user-images.githubusercontent.com/75307578/213904254-365c940d-6634-4558-a5b5-a46b7cda7562.png)
+
+
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
