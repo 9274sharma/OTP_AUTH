@@ -1,13 +1,19 @@
-# Getting Started with Create React App
+# Getting Started with OTP AUTHORIZATION 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project provides the otp verification through phone number of the user for login using firebase 
+and optional login of google login directly
 
 ## Available Scripts
 
-In the project directory, you can run:
+To Test this project you have to run this command in  your terminal:
 
-### `yarn start`
+### `npm intall firebase`
+To install the firebase in your device
 
+## `npm install react-scripts`
+to support the creation, development and testing of react applications.
+
+## `npm start `
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
