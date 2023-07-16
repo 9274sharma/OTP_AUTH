@@ -30,7 +30,8 @@ You can create your own firebase account and change the firebaseConfig in fireba
 
 ![image](https://user-images.githubusercontent.com/75307578/213904307-c7bee68b-fbd7-4922-9adb-4dfd760529e3.png)
 
-![image](https://user-images.githubusercontent.com/75307578/213904295-be685e7d-0739-41a9-9bdb-7c6ef6a9b671.png)
+![image](https://github.com/9274sharma/OTP_AUTH/assets/75307578/79ca23de-82b7-4891-ae6d-c80b46194324)
+
 
 
 
